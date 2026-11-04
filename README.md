@@ -97,19 +97,10 @@ Before moving into Android I spent around two years in web and UX work — WordP
 </tr>
 </table>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hafiz-Daniyal&show_icons=true&hide_border=true&theme=react&bg_color=0d1117&title_color=3DDC84&icon_color=3DDC84&text_color=c9d1d9" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-Daniyal&layout=compact&hide_border=true&bg_color=0d1117&title_color=3DDC84&text_color=c9d1d9" alt="Top languages"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hafiz-Daniyal&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" alt="Trophies"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-Daniyal&theme=react-dark&hide_border=true&bg_color=0d1117&color=3DDC84&line=3DDC84&point=ffffff&area=true" width="100%" alt="Contribution graph"/>
+<img src="https://streak-stats.demolab.com/?user=Hafiz-Daniyal&theme=dark&hide_border=true&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak"/>
 </p>
 
 ## 🌍 Connect With Me

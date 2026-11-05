@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:073042&height=200&section=header&text=Hafiz%20Muhammad%20Daniyal%20Zia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Project%20Coordinator%20%7C%20Android%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:073042&height=200&section=header&text=Hafiz%20Muhammad%20Daniyal%20Zia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Project%20Coordinator%20%7C%20Android%20and%20Flutter%20Developer%20%7C%20Agentic%20AI&descAlignY=58&descSize=20" width="100%"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3DDC84&center=true&vCenter=true&width=600&lines=Project+Coordinator+%E2%80%A2+Project+Management;Android+Developer+%40+F+Tech+Solutions;Kotlin+%E2%80%A2+Java+%E2%80%A2+Room+%E2%80%A2+MySQL;Planning+%E2%80%A2+Tracking+%E2%80%A2+Team+Coordination;Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3DDC84&center=true&vCenter=true&width=600&lines=Project+Coordinator+%E2%80%A2+Project+Management;Android+Developer+%40+F+Tech+Solutions;Kotlin+%E2%80%A2+Java+%E2%80%A2+Room+%E2%80%A2+MySQL;Planning+%E2%80%A2+Tracking+%E2%80%A2+Team+Coordination;Flutter+%E2%80%A2+Dart+%E2%80%A2+Cross-platform+Apps;Agentic+AI+%E2%80%A2+n8n+%E2%80%A2+Workflow+Automation;Karachi%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -16,18 +16,18 @@
 
 ## 🧠 About Me
 
-<img align="right" src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,cs,mysql,figma&perline=3" alt="Core stack" width="220"/>
+<img align="right" src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,dart,cs,mysql,figma,git&perline=3" alt="Core stack" width="220"/>
 
 **Project Coordinator and Software Engineer** from **Karachi, Pakistan**. I coordinate software projects end-to-end — planning, task tracking, team communication and delivery — and work hands-on as an **Android Developer at F Tech Solutions** (since 2023). Graduate of **Iqra University** (2018–2022).
 
 Before moving into Android I spent around two years in web and UX work — WordPress, Shopify, OpenCart, Adobe XD, HTML & CSS — and built C# desktop applications backed by MySQL as a freelancer and intern.
 
 - 📋 **Project Coordination & Management** — planning, scheduling, progress tracking, stakeholder communication
-- 📱 Native Android apps with **Kotlin & Java**
+- 📱 Mobile apps — native Android with **Kotlin & Java**, cross-platform with **Flutter & Dart**
 - 🗄️ Data layers with **Room Database** and **MySQL**
 - 🎨 UI/UX in **Figma**, **Adobe XD**, Photoshop and Canva
 - 🖥️ Desktop apps in **C# (WinForms / WPF)**
-- 📚 Currently exploring **Flutter** and full-stack mobile development
+- 🤖 **Agentic AI & automation** — building AI agents and workflows with **n8n**, Make, OpenAI API and LangChain
 
 <br clear="right"/>
 
@@ -56,12 +56,39 @@ Before moving into Android I spent around two years in web and UX work — WordP
 <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-FF6F00?style=flat-square&logo=jira&logoColor=white"/>
 </p>
 
+## 🤖 Agentic AI & Automation
+
+<table>
+<tr>
+<td align="center" width="90">🔁</td>
+<td><b>Workflow Automation</b><br/><sub>Designing automated business workflows in <b>n8n</b> and <b>Make</b> — triggers, integrations, data transformation</sub></td>
+<td align="center" width="90">🧠</td>
+<td><b>AI Agents</b><br/><sub>Agents that call tools and APIs, chain LLM steps and hand off to humans where needed</sub></td>
+</tr>
+<tr>
+<td align="center">🔌</td>
+<td><b>LLM Integration</b><br/><sub>OpenAI / Gemini APIs, prompt design and structured outputs inside apps and workflows</sub></td>
+<td align="center">📚</td>
+<td><b>RAG & Knowledge Bots</b><br/><sub>Document Q&amp;A and chat assistants grounded in project data</sub></td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-3DDC84?style=flat-square&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-073042?style=flat-square&logo=databricks&logoColor=white"/>
+</p>
+
 ## 💼 Experience
 
 <table>
 <tr>
 <td align="center" width="90">📱</td>
-<td><b>Android Developer · Project Coordinator</b> · F Tech Solutions, Karachi<br/><sub>Mar 2023 – Present · Full-time</sub><br/>Native Android development in Java and Kotlin, alongside coordinating project tasks, timelines and team communication</td>
+<td><b>Android Developer · Project Coordinator</b> · F Tech Solutions, Karachi<br/><sub>Mar 2023 – Present · Full-time</sub><br/>Native Android (Java, Kotlin) and Flutter development, alongside coordinating project tasks, timelines and team communication; automating internal workflows with n8n</td>
 </tr>
 <tr>
 <td align="center">🖥️</td>
@@ -80,6 +107,8 @@ Before moving into Android I spent around two years in web and UX work — WordP
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Room%20Database-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
